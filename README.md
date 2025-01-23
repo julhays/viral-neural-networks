@@ -10,6 +10,8 @@ Thanks for visiting our poster! Below are all of our LinkedIn and GitHub URLs:
 | Tayana Roychowdhury  | https://www.linkedin.com/in/tayanaroy/  | https://github.com/troycho |
 | Jackson Wells  | https://www.linkedin.com/in/jacksontwells/  | https://github.com/jackson-wells |
 
+### Photo of Poster
+
 
 ### References
 1.  N. F. Müller, D. Rasmussen, T. Stadler, MASCOT: parameter and state inference under the marginal structured coalescent approximation. Bioinformatics 34, 3843–3848 (2018).
