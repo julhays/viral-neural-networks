@@ -3,6 +3,7 @@
 * ordinary differential equation (ODE) -
 * lineage
 * state
+* node
 * hyperparameters
 * MASCOT
 * nnMASCOT
