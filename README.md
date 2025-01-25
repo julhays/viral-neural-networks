@@ -1,7 +1,7 @@
 # viral-neural-networks
 
 
-Thanks for visiting our poster! Below are all of our LinkedIn and GitHub URLs:
+Thanks for visiting our poster! Please see glossary.md for definitions of terms. Below are all of our LinkedIn and GitHub URLs:
 
 | Author  | LinkedIn | GitHub |
 | ------------- | ------------- | ------------- |
