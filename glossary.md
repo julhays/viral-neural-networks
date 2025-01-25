@@ -3,7 +3,6 @@
 * ordinary differential equation (ODE) -
 * lineage
 * state
-* neural network
 * hyperparameters
 * MASCOT
 * nnMASCOT
