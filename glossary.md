@@ -9,6 +9,7 @@
   * activation functions - specify the non-linear transformations applied between each layer
   * epochs: the number of complete passes through the training dataset the model learns on
   * number of layers/neurons - defines the architecture of the neural network
+* loss - metric that quantifies the error between a model's prediction and the actual solution
 * MASCOT - state-of-the-art phylodynamics algorithm used to infer viral transmission history given a phylogenetic tree by solving sets of ordinary differential equations. 
 * nnMASCOT - a full scale inplementation of MASCOT that swaps the traditional step-wise ODE solver in MASCOT with a neural network.
 * PyTorch - a library in Python used to train and implement deep learning models such as a neural network.
