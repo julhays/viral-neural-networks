@@ -12,7 +12,8 @@ Thanks for visiting our poster! Please see glossary.md for definitions of terms.
 
 ### Photo of Poster
 
-<img width="1255" alt="image" src="https://github.com/user-attachments/assets/afc96df6-dc07-439f-a046-f787a7a63fde" />
+<img width="1216" alt="image" src="https://github.com/user-attachments/assets/d53fb03e-e768-4580-9391-b553b635dd81" />
+
 
 
 
