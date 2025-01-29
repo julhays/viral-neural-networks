@@ -12,6 +12,7 @@ Thanks for visiting our poster! Please see glossary.md for definitions of terms.
 
 ### Photo of Poster
 
+![Slide1](https://github.com/user-attachments/assets/543c3e45-4734-41f7-bb92-76fb4191caf6)
 
 ### References
 1.  N. F. Müller, D. Rasmussen, T. Stadler, MASCOT: parameter and state inference under the marginal structured coalescent approximation. Bioinformatics 34, 3843–3848 (2018).
